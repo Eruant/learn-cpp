@@ -9,3 +9,5 @@ g++ main.cpp another.css -o myApp
 ```
 
 Compile with `g++ -o <program> <source>`
+
+To compile for `c++11` use `-std=c++11` e.g. `g++ -std=c++11 main.cpp -o myApp`
