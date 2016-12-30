@@ -1,0 +1,16 @@
+a) The age of the user (in years)
+  - int16_t
+b) Whether the user wants color or not
+  - bool
+c) pi (3.14159265)
+  - const double
+d) The number of pages in a textbook
+ - int16_t
+e) The price of a stock in dollars (to 2 decimal places)
+ - float
+f) How many times you’ve blinked since you were born (note: answer is in the millions)
+ - int32_t
+g) A user selecting an option from a menu by letter
+ - char
+h) The year someone was born
+ - int16_t
