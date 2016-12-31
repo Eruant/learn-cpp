@@ -1,0 +1,17 @@
+1) What does 0110 >> 2 evaluate to in binary?
+0001
+
+2) What does 5 | 12 evaluate to in decimal?
+0101 = 5
+1100 = 12
+1101 = 13
+
+3) What does 5 & 12 evaluate to in decimal?
+0101 = 5
+1100 = 12
+0100 = 4
+
+4) What does 5 ^ 12 evaluate to in decimal?
+0101 = 5
+1100 = 12
+1001 = 9
