@@ -1,0 +1,22 @@
+1)
+
+enum MonsterTypes {
+  MONSTERTYPE_ORC,
+  MONSTERTYPE_GOBLIN,
+  MONSTERTYPE_TROLL,
+  MONSTERTYPE_ORGRE,
+  MONSTERTYPE_SKELETON
+}
+
+2)
+
+MonsterType monster(MONSTERTYPE_TROLL);
+
+3)
+
+a) true
+b) true
+c) false
+d) true
+e) true
+f) true
